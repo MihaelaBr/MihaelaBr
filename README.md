@@ -1,6 +1,6 @@
 👋 Hi, I’m Mihaela, a Data Analyst | Data Engineer with a background in managing technical projects.   
 
-👀 I’m interested in Data Analytics, Data Engineering and Data Science.   
+👀 I’m interested in Data Analytics, Data Engineering and Data Science, Process automations and App development.   
 
 🌲 Some of my projects have a special focus on the environment, climate change and business but some include personal interests like music and sports.   
 
