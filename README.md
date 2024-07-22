@@ -6,7 +6,7 @@
 
 🌱  My current target is improving my Python programming skills, ETL and pipeline building skills.   
 
-⚡  My strenghts are SQL, Databases, LookML and vizualisations in most of the BI 📊 (Business Intelligence) and GIS 🌐 (Geographic Information Systems) tools.   
+⚡  My strenghts are SQL, Cloud DWH, Dashboards and Visualisations in most of the 📊 Business Intelligence and 🌐 Geo Information Systems tools. I enjoy very much working on improving my Python and R programming, ETL/ELT pipeline building skills as well.
 
 <!---
 MihaelaBr/MihaelaBr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
