@@ -1,4 +1,4 @@
-👋  Hi, I’m Mihaela, a Data Analyst | Data Engineer with a background in managing technical projects and working with geo data.   
+👋  Hi, I’m Michaela, a Data Analyst | Data Engineer with a background in managing technical projects and working with geo data.   
 
 👀  I’m interested in Data Analytics, Data Engineering and Data Science, Process automations and App development.   
 
