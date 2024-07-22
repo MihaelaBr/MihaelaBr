@@ -2,7 +2,7 @@
 
 👀  I’m interested in Data Analytics, Data Engineering and Data Science, Process automations and App development.   
 
-🌲  Some of my projects have a special focus on the environment, climate change and business but some include personal interests like music and sports.   
+🌲  Some of my projects have a special focus on the environment, climate change and business but some include personal interests like music, art and movies.   
 
 🌱  My current target is improving my Python programming skills, ETL and pipeline building skills.   
 
